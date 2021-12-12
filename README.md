@@ -1,2 +1,2 @@
 # Assembly-Exercises
- Assembly exercises collection for learning purpose.
+This is a collection of assembly exercises.
