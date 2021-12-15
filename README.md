@@ -4,8 +4,17 @@ This is a collection of assembly exercises.
 <ul>
 <li><b>Exercise 1 - Additions and subtraction.</b></li>
 <li><b>Exercise 2 - Registers.</b></li>
-<li><b>Exercise 3 - Geometric figures area calculator.</b></li>
-<li><b>Exercise 4 - Geometric figures area calculator.</b></li>
+<li><b>Exercise 3 - Geometric figures area.</b></li>
+<li><b>Exercise 4 - Sorting 4 numbers.</b></li>
+<li><b>Exercise 5 - Average grade.</b></li>
+<li><b>Exercise 6 - Searching one element in a vector.</b></li>
+<li><b>Exercise 7 - Equality between vectors.</b></li>
+<li><b>Exercise 8 - Equality between vectors.</b></li>
+<li><b>Exercise 9 - Sorting  vector.</b></li>
+<li><b>Exercise 10 - Queue manipulation.</b></li>
+
+<li><b>Prova - concatenate two vectors in descending order.</b></li>
+
 </ul>
 
 ## How to use
