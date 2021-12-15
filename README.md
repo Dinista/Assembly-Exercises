@@ -2,8 +2,10 @@
 This is a collection of assembly exercises.
 
 <ul>
-<li></li>
-
+<li><b>Exercise 1 - Additions and subtraction.</b></li>
+<li><b>Exercise 2 - Registers.</b></li>
+<li><b>Exercise 3 - Geometric figures area calculator.</b></li>
+<li><b>Exercise 4 - Geometric figures area calculator.</b></li>
 </ul>
 
 ## How to use
