@@ -12,7 +12,7 @@ This is a collection of assembly exercises.
 <li><b>Exercise 9 - Sorting  vector.</b></li>
 <li><b>Exercise 10 - Queue manipulation.</b></li>
 
-<li><b>Prova - concatenate two vectors in descending order.</b></li>
+<li><b>Prova - Concatenate two vectors in descending order.</b></li>
 
 </ul>
 
